@@ -1,0 +1,9 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/ComplexNumbers.dir/main.cpp.o: dyndep
+
+build CMakeFiles/ComplexNumbers.dir/ComplexNumber/ComplexNumber.cpp.o: dyndep
+
+build CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o: dyndep
+
+build CMakeFiles/ComplexNumbers.dir/tests/test_RationalNumber.cpp.o: dyndep
+

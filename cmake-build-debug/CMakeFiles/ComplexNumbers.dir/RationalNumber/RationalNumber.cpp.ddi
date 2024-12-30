@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

@@ -1,0 +1,88 @@
+# ninja log v6
+83	88	1735551112083978013	/home/churka/C or C++/ComplexNumbers/cmake-build-debug/CMakeFiles/ComplexNumbers.dir/CXXModules.json	cede398363764c03
+83	88	1735551112083978013	CMakeFiles/ComplexNumbers.dir/CXX.dd	cede398363764c03
+1	82	1735465338878498696	CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o.ddi	77fbb6937b48db95
+3	21	1735463729412502705	CMakeFiles/ComplexNumbers.dir/tests/test_RationalNumber.cpp.o.ddi	9f9c7e876ccff184
+83	88	1735551112083978013	CMakeFiles/ComplexNumbers.dir/ComplexNumber/ComplexNumber.cpp.o.modmap	cede398363764c03
+517	636	1735551112517301083	ComplexNumbers	a62eb3e12ba277f5
+83	88	1735551112083978013	CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o.modmap	cede398363764c03
+124	585	1735465148635732429	CMakeFiles/ComplexNumbers.dir/ComplexNumber/ComplexNumber.cpp.o	a274cde2f7cb0a67
+88	478	1735465338965172851	CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o	b704600e3200f22e
+83	88	1735551112083978013	CMakeFiles/ComplexNumbers.dir/main.cpp.o.modmap	cede398363764c03
+1	118	1735465148512377608	CMakeFiles/ComplexNumbers.dir/ComplexNumber/ComplexNumber.cpp.o.ddi	4d257d883f6fffee
+1	83	1735551112000646653	CMakeFiles/ComplexNumbers.dir/main.cpp.o.ddi	e1c3f33de8829760
+132	155	1735463729542533876	CMakeFiles/ComplexNumbers.dir/tests/test_RationalNumber.cpp.o	23cad755955f2b43
+83	88	1735551112083978013	CMakeFiles/ComplexNumbers.dir/tests/test_RationalNumber.cpp.o.modmap	cede398363764c03
+88	517	1735551112087311267	CMakeFiles/ComplexNumbers.dir/main.cpp.o	d44fd1f572fbaf44
+1	91	1735551130303546944	CMakeFiles/ComplexNumbers.dir/main.cpp.o.ddi	e1c3f33de8829760
+91	97	1735551130390211563	CMakeFiles/ComplexNumbers.dir/CXX.dd	cede398363764c03
+91	97	1735551130390211563	/home/churka/C or C++/ComplexNumbers/cmake-build-debug/CMakeFiles/ComplexNumbers.dir/CXXModules.json	cede398363764c03
+91	97	1735551130390211563	CMakeFiles/ComplexNumbers.dir/main.cpp.o.modmap	cede398363764c03
+91	97	1735551130390211563	CMakeFiles/ComplexNumbers.dir/ComplexNumber/ComplexNumber.cpp.o.modmap	cede398363764c03
+91	97	1735551130390211563	CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o.modmap	cede398363764c03
+91	97	1735551130390211563	CMakeFiles/ComplexNumbers.dir/tests/test_RationalNumber.cpp.o.modmap	cede398363764c03
+97	526	1735551130396878071	CMakeFiles/ComplexNumbers.dir/main.cpp.o	d44fd1f572fbaf44
+526	602	1735551130826867910	ComplexNumbers	a62eb3e12ba277f5
+2	81	1735551379931053322	CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o.ddi	77fbb6937b48db95
+81	86	1735551380011051474	CMakeFiles/ComplexNumbers.dir/CXX.dd	cede398363764c03
+81	86	1735551380011051474	/home/churka/C or C++/ComplexNumbers/cmake-build-debug/CMakeFiles/ComplexNumbers.dir/CXXModules.json	cede398363764c03
+81	86	1735551380011051474	CMakeFiles/ComplexNumbers.dir/main.cpp.o.modmap	cede398363764c03
+81	86	1735551380011051474	CMakeFiles/ComplexNumbers.dir/ComplexNumber/ComplexNumber.cpp.o.modmap	cede398363764c03
+81	86	1735551380011051474	CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o.modmap	cede398363764c03
+81	86	1735551380011051474	CMakeFiles/ComplexNumbers.dir/tests/test_RationalNumber.cpp.o.modmap	cede398363764c03
+86	531	1735551380017717987	CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o	b704600e3200f22e
+531	607	1735551380461041082	ComplexNumbers	a62eb3e12ba277f5
+1	115	1735551427773283619	CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o.ddi	77fbb6937b48db95
+115	122	1735551427889947600	CMakeFiles/ComplexNumbers.dir/CXX.dd	cede398363764c03
+115	122	1735551427889947600	/home/churka/C or C++/ComplexNumbers/cmake-build-debug/CMakeFiles/ComplexNumbers.dir/CXXModules.json	cede398363764c03
+115	122	1735551427889947600	CMakeFiles/ComplexNumbers.dir/main.cpp.o.modmap	cede398363764c03
+115	122	1735551427889947600	CMakeFiles/ComplexNumbers.dir/ComplexNumber/ComplexNumber.cpp.o.modmap	cede398363764c03
+115	122	1735551427889947600	CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o.modmap	cede398363764c03
+115	122	1735551427889947600	CMakeFiles/ComplexNumbers.dir/tests/test_RationalNumber.cpp.o.modmap	cede398363764c03
+122	714	1735551427896614114	CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o	b704600e3200f22e
+715	826	1735551428486600534	ComplexNumbers	a62eb3e12ba277f5
+1	143	1735551486605265309	CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o.ddi	77fbb6937b48db95
+143	150	1735551486748595355	CMakeFiles/ComplexNumbers.dir/CXX.dd	cede398363764c03
+143	150	1735551486748595355	/home/churka/C or C++/ComplexNumbers/cmake-build-debug/CMakeFiles/ComplexNumbers.dir/CXXModules.json	cede398363764c03
+143	150	1735551486748595355	CMakeFiles/ComplexNumbers.dir/main.cpp.o.modmap	cede398363764c03
+143	150	1735551486748595355	CMakeFiles/ComplexNumbers.dir/ComplexNumber/ComplexNumber.cpp.o.modmap	cede398363764c03
+143	150	1735551486748595355	CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o.modmap	cede398363764c03
+143	150	1735551486748595355	CMakeFiles/ComplexNumbers.dir/tests/test_RationalNumber.cpp.o.modmap	cede398363764c03
+150	742	1735551486755261869	CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o	b704600e3200f22e
+742	847	1735551487345248339	ComplexNumbers	a62eb3e12ba277f5
+1	117	1735551527780988812	CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o.ddi	77fbb6937b48db95
+117	122	1735551527897652809	CMakeFiles/ComplexNumbers.dir/CXX.dd	cede398363764c03
+117	122	1735551527897652809	/home/churka/C or C++/ComplexNumbers/cmake-build-debug/CMakeFiles/ComplexNumbers.dir/CXXModules.json	cede398363764c03
+117	122	1735551527897652809	CMakeFiles/ComplexNumbers.dir/main.cpp.o.modmap	cede398363764c03
+117	122	1735551527897652809	CMakeFiles/ComplexNumbers.dir/ComplexNumber/ComplexNumber.cpp.o.modmap	cede398363764c03
+117	122	1735551527897652809	CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o.modmap	cede398363764c03
+117	122	1735551527897652809	CMakeFiles/ComplexNumbers.dir/tests/test_RationalNumber.cpp.o.modmap	cede398363764c03
+123	677	1735551527900986066	CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o	b704600e3200f22e
+677	776	1735551528457639997	ComplexNumbers	a62eb3e12ba277f5
+1	87	1735551537200773349	CMakeFiles/ComplexNumbers.dir/main.cpp.o.ddi	e1c3f33de8829760
+87	93	1735551537287438035	CMakeFiles/ComplexNumbers.dir/CXX.dd	cede398363764c03
+87	93	1735551537287438035	/home/churka/C or C++/ComplexNumbers/cmake-build-debug/CMakeFiles/ComplexNumbers.dir/CXXModules.json	cede398363764c03
+87	93	1735551537287438035	CMakeFiles/ComplexNumbers.dir/main.cpp.o.modmap	cede398363764c03
+87	93	1735551537287438035	CMakeFiles/ComplexNumbers.dir/ComplexNumber/ComplexNumber.cpp.o.modmap	cede398363764c03
+87	93	1735551537287438035	CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o.modmap	cede398363764c03
+87	93	1735551537287438035	CMakeFiles/ComplexNumbers.dir/tests/test_RationalNumber.cpp.o.modmap	cede398363764c03
+94	529	1735551537294104548	CMakeFiles/ComplexNumbers.dir/main.cpp.o	d44fd1f572fbaf44
+529	639	1735551537727427973	ComplexNumbers	a62eb3e12ba277f5
+2	85	1735551552967079632	CMakeFiles/ComplexNumbers.dir/main.cpp.o.ddi	e1c3f33de8829760
+85	92	1735551553053744319	CMakeFiles/ComplexNumbers.dir/CXX.dd	cede398363764c03
+85	92	1735551553053744319	/home/churka/C or C++/ComplexNumbers/cmake-build-debug/CMakeFiles/ComplexNumbers.dir/CXXModules.json	cede398363764c03
+85	92	1735551553053744319	CMakeFiles/ComplexNumbers.dir/main.cpp.o.modmap	cede398363764c03
+85	92	1735551553053744319	CMakeFiles/ComplexNumbers.dir/ComplexNumber/ComplexNumber.cpp.o.modmap	cede398363764c03
+85	92	1735551553053744319	CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o.modmap	cede398363764c03
+85	92	1735551553053744319	CMakeFiles/ComplexNumbers.dir/tests/test_RationalNumber.cpp.o.modmap	cede398363764c03
+93	519	1735551553060410833	CMakeFiles/ComplexNumbers.dir/main.cpp.o	d44fd1f572fbaf44
+520	631	1735551553487067752	ComplexNumbers	a62eb3e12ba277f5
+1	109	1735551561686880445	CMakeFiles/ComplexNumbers.dir/main.cpp.o.ddi	e1c3f33de8829760
+110	115	1735551561796877933	CMakeFiles/ComplexNumbers.dir/CXX.dd	cede398363764c03
+110	115	1735551561796877933	/home/churka/C or C++/ComplexNumbers/cmake-build-debug/CMakeFiles/ComplexNumbers.dir/CXXModules.json	cede398363764c03
+110	115	1735551561796877933	CMakeFiles/ComplexNumbers.dir/main.cpp.o.modmap	cede398363764c03
+110	115	1735551561796877933	CMakeFiles/ComplexNumbers.dir/ComplexNumber/ComplexNumber.cpp.o.modmap	cede398363764c03
+110	115	1735551561796877933	CMakeFiles/ComplexNumbers.dir/RationalNumber/RationalNumber.cpp.o.modmap	cede398363764c03
+110	115	1735551561796877933	CMakeFiles/ComplexNumbers.dir/tests/test_RationalNumber.cpp.o.modmap	cede398363764c03
+116	543	1735551561803544447	CMakeFiles/ComplexNumbers.dir/main.cpp.o	d44fd1f572fbaf44
+543	646	1735551562230201370	ComplexNumbers	a62eb3e12ba277f5
